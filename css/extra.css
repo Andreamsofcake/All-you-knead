@@ -1,0 +1,46 @@
+/*classes*/
+.head_img {
+  align: left;
+  margin: 50px;
+}
+.panel-group {
+  border: solid;
+}
+.left-bar {
+  float: left;
+  width: 300px;
+
+}
+.form-horizontal {
+  margin: 50px 0px;
+
+}
+.content {
+  float: right;
+}
+
+/*id fields*/
+#container {
+  width: 960px;
+  margin: 0 auto;
+  background: rgba(255,255,255, 0.90);
+}
+#content {
+  overflow: auto;
+
+
+}
+#sidebar_primary {
+  float: left;
+}
+.main {
+  width: 460px;
+  float: right;
+
+}
+#footer {
+  
+}
+body {
+  background-image: url('../img/1.jpg');
+}
